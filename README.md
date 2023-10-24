@@ -8,7 +8,9 @@ Foi utilizado as tecnologias:
 
 Link do site: https://charles-1337.github.io/projeto-one-piece/
 
-### Versão desktop:![luffy](https://github.com/charles-1337/projeto-one-piece/assets/148808038/b92c4585-4517-4d58-b043-6112bab26f1a)
+### Versão desktop:
+
+![luffy](https://github.com/charles-1337/projeto-one-piece/assets/148808038/b92c4585-4517-4d58-b043-6112bab26f1a)
 
 
 ### Versão mobile:
